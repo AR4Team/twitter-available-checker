@@ -11,7 +11,7 @@ twitter checker that check if the email registered on twitter or not , without p
 3- add email list "list.txt"
 then click on "start.bat"
 and it will start checking.
-
+------------------
 
 
 enjoy.
